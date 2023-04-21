@@ -25,7 +25,7 @@
 <p align="esquerda">
 <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloVinii&layout=compact&show_icons=true&theme=tokyonight" alt="MarceloVinii stats"/>
 
-<br><br>
+<br>
 
 ##  Contato
 
