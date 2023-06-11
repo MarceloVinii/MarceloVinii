@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcelo 👋
 ##
 
- Desenvolvedor front-end e mobile, apaixonado pela área de tecnologia.
+ Desenvolvedor front-end e mobile, entusiasta na área de tecnologia.
  
  - 👨‍💻 Desenvolvedor Front-end e Mobile.
  - :man_student: Formado em Sistemas de Informação.
